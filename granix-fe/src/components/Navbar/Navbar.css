@@ -1,0 +1,33 @@
+.css-5czdux-MuiPaper-root-MuiAppBar-root {
+  background-color: #212121;
+}
+
+.link-nav {
+  text-decoration: none;
+}
+
+.logo-link{
+  text-decoration: none;
+  color: #F5F5F5;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  letter-spacing: 0.3rem;
+}
+a.btn-menu{
+  color: #F5F5F5;
+}
+
+a{
+  text-decoration: none;
+  color: #212121;
+  font-family: monospace;
+
+}
+
+.sign-nav{
+  display: flex;
+  flex-direction: row;
+  font-size: 60%;
+}
+

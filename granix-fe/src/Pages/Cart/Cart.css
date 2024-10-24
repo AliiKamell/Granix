@@ -1,0 +1,36 @@
+.cart-main {
+  height: 90vh;
+  background-color: rgb(57, 57, 57);
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+#cart-tabel {
+  width: 70%;
+  align-items: center;
+  height: 60%;
+  background-color: transparent;
+}
+.cart-img {
+  max-width: 10%;
+}
+
+#cart-cell {
+  color: aliceblue;
+}
+
+.clear-cart {
+  margin-top: 30px;
+  width: 150px;
+  height: 30px;
+}
+
+.empty-cart-message {
+    text-align: center;
+    font-size: 1.2rem;
+    color: aliceblue;
+    margin: 10px 0;
+  }
+  

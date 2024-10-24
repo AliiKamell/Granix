@@ -1,0 +1,20 @@
+.form-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(57, 57, 57);
+  height: auto;
+  color: aliceblue;
+  padding: 2vh;
+  font-family: monospace;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 5%;
+  align-items: center;
+}
+
